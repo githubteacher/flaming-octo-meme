@@ -1,1 +1,2 @@
-Ricky's fish tacos!
+**Ricky's fish tacos!**
+Presumably there are other great spots, too.
