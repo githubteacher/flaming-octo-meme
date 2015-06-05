@@ -1,3 +1,3 @@
 #Adrian Tropical.
 
-Very good latin food.
+Very good Latin food.
