@@ -1,0 +1,12 @@
+my github trainign intermediate course notes -
+
+git status [to get status of the changes]
+git hub branch <branch name > to create new branch
+git hub -m <old branch name> <new branch name>
+git push -u origin ramdas-test top push changes from ur branch
+git checkout <branch name> to change to another branch
+git merge origin/master  to merge with master branch
+git checkout -b <local branch name> <remote branch name>  to create local 1:1 map of remote branch
+git add .  [to add all files ? ]
+git commit -m "comment"
+git log
