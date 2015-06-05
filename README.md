@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## WOOO CHANGES
 # flaming-octo-meme
 +demo repo for today's Intermediate class
@@ -16,3 +17,10 @@ changing this file
 
 
 (╯°□°）╯︵ ┻━┻
+=======
+
+## Instructions
+
+Some coments
+
+>>>>>>> branch-manish
